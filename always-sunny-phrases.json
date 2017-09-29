@@ -1,0 +1,125 @@
+{
+	"_voice_guide": "Charlie: :np, Frank: :nh, Dennis: :nd, Mac: :nf, Dee: :nu, Cricket: :nb",
+	"phrases": [
+		{
+			"name": "crack",
+			"help": "He just wants to help.",
+			"message": "[:nd] Hi. Um, I'm a recovering crackhead. This is my retarded sister that I take care of. I'd like some welfare please."
+		},
+		{
+			"name": "smoke",
+			"help": "Astronomical phenomenon.",
+			"message": "[:np] Oh, I'm sorry. Well I could put the trash into a landfill where it's going to stay for millions of years, or I could burn it up, get a nice smokey smell in here and let that smoke go into the sky where it turns into stars."
+		},
+		{
+			"name": "philanthropist",
+			"help": "He just wants to help.",
+			"message": "[:np] I'm a full-on rapist. You know, africans, dyslexics...that sort of thing"
+		},
+		{
+			"name": "milk",
+			"help": "A real food connoisseur.",
+			"message": "[:np] I'll have the milk steak, boiled over hard, and a side of your finest jelly beans, raw."
+		},
+		{
+			"name": "job",
+			"help": "Realistic career opporunities.",
+			"message": "[:np] Oh, get a job? Just get a job? Why don't I strap on my job helmet and squeeze down into a job cannon and fire off into job land, where jobs grow on jobbies?"
+		},
+		{
+			"name": "dong",
+			"help": "Practical dating advice.",
+			"message": "[:nh] Oops, I dropped my monster condom for my magnum dong"
+		},
+		{
+			"name": "roxie",
+			"help": "An emotional moment.",
+			"message": "[:nh] Roxie, god bless you, you were a good whore. You serviced me like no other whore ever did, and not just my crank....but my heart."
+		},
+		{
+			"name": "ham",
+			"help": "The saddest goodbye.",
+			"message": "[rah<200>m<125>_<200>hxae<700>m<125>]"
+		},
+		{
+			"name": "god",
+			"help": "Real love.",
+			"message": "[:np] Here's a confession: I'm in love with a man. What? I'm in love with a man! [_<250>] A man called God. Does that make me gay? Am I gay for God? You betcha."
+		},
+		{
+			"name": "smell",
+			"help": "She didn't think of it.",
+			"message": "[:nd] Think of the smell. You haven’t thought of the smell, you bitch!"
+		},
+		{
+			"name": "scar",
+			"help": "Cricket's predicament",
+			"message": "[:nb] I mean, does my scar look like a dog's vagina? You know? Maybe. I don't know. I'm not gonna sit here and try to get inside the mind of a dog."
+		},
+		{
+			"name": "dayman",
+			"help": "Broadway quality.",
+			"message": "[:nd] Day man! Ahhhh Ahh Ahhhhhhh! Fighter of the night man! Ahhhh Ahh Ahhhhhhh! Champion of the sun. Ahhhh Ahh Ahhhhhhh! Youre a master of karate and friendship for everyone!"
+		},
+		{
+			"name": "vietnam",
+			"help": "We lost a lot of good men.",
+			"message": "[:nh] I didn't go to Vietnam so they could take my freedom. [:nu] You went to Vietnam in 1994 to open a sweat shop. [:nh] And a lot of good men died in that sweat shop!"
+		},
+		{
+			"name": "law",
+			"help": "Charlie Kelly, Attorney at law.",
+			"message": "[:np] Lets go toe to toe in bird law, and see who comes out the victor."
+		},
+		{
+			"name": "troll",
+			"help": "You've gotta pay the toll.",
+			"message": "[:nh] You've got to pay the troll toll if you want to get into that boysoul, you've got to pay the troll toll to get in!"
+		},
+		{
+			"name": "spaghetti",
+			"help": "It's a spa day.",
+			"message": "[:np] What is this word spa? I feel like you're starting to say a word, and you're not finishing it. Are you trying to say spaghetti? Are you taking me on a spaghetti day?"
+		},
+		{
+			"name": "vote",
+			"help": "The importance of local government.",
+			"message": "[:nd] Hello fellow American. This you should vote me. I leave power. Good. Thank you, thank you. If you vote me, I'm hot. What? Taxes, they'll be lower... son. The Democratic vote for me is right thing to do Philadelphia, so do."
+		},
+		{
+			"name": "jot",
+			"help": "So many possibilities.",
+			"message": "[:nf] Well through god, all things are possible. So jot that down."
+		},
+		{
+			"name": "golden",
+			"help": "He is a golden god!",
+			"message": "[:nd] [m<500>]. I have contained my rage for as long as possible, but I shall unleash my fury upon you like the crashing of a thousand waves! Be-gone, vile man! Be-gone from me! A starter car? This car is a finisher car! A transporter of gods! The golden god! I am untethered, and my rage knows no bounds!"
+		},
+		{
+			"name": "tools",
+			"help": "A specific need.",
+			"message": "[:nd] Tools! Tools! Duct tape, zip ties, and gloves! I have to have my tools! I like to bind... I like to be bound!"
+		},
+		{
+			"name": "science",
+			"help": "They're liars sometimes.",
+			"message": "[:np] Stupid science bitch, couldn't even make I more smarter! [:nh] Yeah!"
+		},
+		{
+			"name": "ears",
+			"help": "Human anatomy.",
+			"message": "[:np] See I just realized that I have two ears, so it's a waste to only listen to one thing."
+		},
+		{
+			"name": "donkey",
+			"help": "Frank is innocent!",
+			"message": "[:nf] By the power of the commonwealth of Pennsylvania, Reid Mental Institution hereby decrees that Frank Reynolds to not have... Donkey brains."
+		},
+		{
+			"name": "nightcrawlers",
+			"help": "Fun for everyone!",
+			"message": "[:np] Why do we never play night crawlers anymore, huh? [:nh] I don't know, Charlie!"
+		}
+	]
+}
