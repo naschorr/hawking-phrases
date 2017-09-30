@@ -120,6 +120,11 @@
 			"name": "nightcrawlers",
 			"help": "Fun for everyone!",
 			"message": "[:np] Why do we never play night crawlers anymore, huh? [:nh] I don't know, Charlie!"
+		},
+		{
+                        "name": "mass",
+                        "help": "He's becoming a chimichanga!",
+                        "message": "[:nf] We've been through this, I'm cultivating mass! [:nd] Stop saying that! You are not cultivating mass, and if you are, stop cultivating and start harvesting!"
 		}
 	]
 }
