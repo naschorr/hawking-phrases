@@ -1,4 +1,7 @@
 {
+	"name": "Miscellaneous",
+	"key": "misc",
+	"description": "A veritable piss trough of incoherent garbage and in-jokes.",
 	"phrases": [
 		{
 			"name"		: "anime",
@@ -12,7 +15,7 @@
 		},
 		{
 			"name"		: "khaki",
-			"help"		: "WE DEM BOYS.",
+			"help"		: "WE DEM BOYS!",
 			"message"	: "we dem khaki jacket boys!"
 		},
 		{
@@ -39,6 +42,22 @@
 			"name"		: "ree",
 			"help"		: "REEEEEEEEEEE",
 			"message"	: "[r<150,999>iy<2000,999>]"
+		},
+		{
+			"name"		: "titanic",
+			"help"		: "A heartfelt rendition.",
+			"message"	: "\\bpm=100 f f f f | e 2f f | e 2f g | 2a 2g | f f f f | e 2f f | 2d 2r",
+			"music"		: true
+		},
+		{
+			"name"		: "koolaid",
+			"help"		: "An excellent prize.",
+			"message"	: "Today winna will receive the gift of KoolAid! Now available in all five food groups: red, urnge, green, blue, and turkwaz. Because, you always need mo KoolAid!"
+		},
+		{
+			"name"		: "no",
+			"help"		: "He doesn't want it.",
+			"message"	: "[:dv ap 95 pr 0 hs 125 sm 50] [duw<200>] [nao<200>t<50>] [waa<1500>nt<150>]!"
 		}
 	]
 }
