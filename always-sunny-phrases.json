@@ -128,6 +128,11 @@
                         "name": "mass",
                         "help": "He's becoming a chimichanga!",
                         "message": "[:nf] We've been through this, I'm cultivating mass! [:nd] Stop saying that! You are not cultivating mass, and if you are, stop cultivating and start harvesting!"
+		},
+		{
+			"name": "suicide",
+			"help": "A loving friendship.",
+			"message": "[:nh] It looks like he may commit suicide! Suicide is bad ass!"
 		}
 	]
 }
