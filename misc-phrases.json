@@ -58,6 +58,11 @@
 			"name"		: "no",
 			"help"		: "He doesn't want it.",
 			"message"	: "[:dv ap 95 pr 0 hs 125 sm 50] [duw<200>] [nao<200>t<50>] [waa<1500>nt<150>]!"
+		},
+		{
+			"name"		: "shrimp",
+			"help"		: "Made especially for you.",
+			"message"	: "you want some [suh<1,1>]hrimp, none of which i've [luh<999,999>]icked"
 		}
 	]
 }
