@@ -63,6 +63,11 @@
 			"name"		: "shrimp",
 			"help"		: "Made especially for you.",
 			"message"	: "you want some [suh<1,1>]hrimp, none of which i've [luh<999,999>]icked"
+		},
+		{
+			"name"		: "parents",
+			"help"		: "A complicated relationship.",
+			"message"	: "[:dial6387657]The birth parents you are trying to call do not love you, please hang up[:t 350,500][:t 1,500][:t 350,500]"
 		}
 	]
 }
