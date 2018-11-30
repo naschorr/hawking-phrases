@@ -42,7 +42,8 @@
 		{
 			"name": "ham",
 			"help": "The saddest goodbye.",
-			"message": "[rah<200>m<125>_<200>hxae<700>m<125>]"
+			"message": "[rah<200>m<125>_<200>hxae<700>m<125>]",
+			"description": "rum ham"
 		},
 		{
 			"name": "god",
@@ -52,7 +53,7 @@
 		{
 			"name": "smell",
 			"help": "She didn't think of it.",
-			"message": "[:nd] Think of the smell. You haven’t thought of the smell, you bitch!"
+			"message": "[:nd] Think of the smell. You haven't thought of the smell, you bitch!"
 		},
 		{
 			"name": "scar",
