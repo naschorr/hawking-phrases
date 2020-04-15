@@ -48,13 +48,6 @@
 			"description": "re"
 		},
 		{
-			"name"		: "titanic",
-			"help"		: "A heartfelt rendition.",
-			"message"	: "\\bpm=100 f f f f | e 2f f | e 2f g | 2a 2g | f f f f | e 2f f | 2d 2r",
-			"description": "titanic theme song",
-			"music"		: true
-		},
-		{
 			"name"		: "koolaid",
 			"help"		: "An excellent prize.",
 			"message"	: "Today winna will receive the gift of KoolAid! Now available in all five food groups: red, urnge, green, blue, and turkwaz. Because, you always need mo KoolAid!"
