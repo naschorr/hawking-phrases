@@ -1,73 +1,102 @@
 {
-	"name": "Miscellaneous",
-	"key": "misc",
-	"description": "A veritable piss trough of incoherent garbage and in-jokes.",
-	"phrases": [
-		{
-			"name"		: "anime",
-			"help"		: "Righteous fury.",
-			"message"	: "[:nk] [:dv as 99 sm 0 ri 99 bf 50 hr 50] Don't fuck with me! I have the power of god and animay on my side!",
-			"description": "dont fuck with me i have the power of god and anime on my side"
-		},
-		{
-			"name"		: "seals",
-			"help"		: "Gorilla warfare.",
-			"message"	: "[:rate 500] What the fuck did you just fucking say about me, you little bitch? I’ll have you know I graduated top of my class in the Navy Seals, and I’ve been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I’m the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You’re fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that’s just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little clever comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn’t, you didn’t, and now you’re paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You’re fucking dead, kiddo.",
-			"description": "navy seal copypasta what the fuck did you just fucking say about me you little bitch"
-		},
-		{
-			"name"		: "khaki",
-			"help"		: "WE DEM BOYS!",
-			"message"	: "we dem khaki jacket boys!"
-		},
-		{
-			"name"		: "boats",
-			"help"		: "The life aquatic.",
-			"message"	: "Boats and hoes, boats and hoes\nI gotta have me my boats and hoes"
-		},
-		{
-			"name"		: "secrets",
-			"help"		: "execute hack.exe",
-			"message"	: "I've hacked into the most secret government and corporate secrets!"
-		},
-		{
-			"name"		: "oh",
-			"help"		: "Oh you!",
-			"message"	: "[ow<2000,100>yu<2000,500>]",
-			"description": "oh you"
-		},
-		{
-			"name"		: "higher",
-			"help"		: "He's got the high ground.",
-			"message"	: "[:np] Everything ends the peaceful is willing to, the geography that I stands compares you superior! [:nh] You underrated my ability. [:np] Is"
-		},
-		{
-			"name"		: "ree",
-			"help"		: "REEEEEEEEEEE",
-			"message"	: "[r<150,999>iy<2000,999>]",
-			"description": "re"
-		},
-		{
-			"name"		: "koolaid",
-			"help"		: "An excellent prize.",
-			"message"	: "Today winna will receive the gift of KoolAid! Now available in all five food groups: red, urnge, green, blue, and turkwaz. Because, you always need mo KoolAid!"
-		},
-		{
-			"name"		: "no",
-			"help"		: "He doesn't want it.",
-			"message"	: "[:dv ap 95 pr 0 hs 125 sm 50] [duw<200>] [nao<200>t<50>] [waa<1500>nt<150>]!",
-			"description": "do not want star wars vader"
-		},
-		{
-			"name"		: "shrimp",
-			"help"		: "Made especially for you.",
-			"message"	: "you want some [suh<1,1>]hrimp, none of which i've [luh<999,999>]icked",
-			"description": "you want some shrimp none of which ive licked"
-		},
-		{
-			"name"		: "parents",
-			"help"		: "A complicated relationship.",
-			"message"	: "[:dial6387657]The birth parents you are trying to call do not love you, please hang up[:t 350,500][:t 1,500][:t 350,500]"
-		}
-	]
+    "name": "Miscellaneous",
+    "key": "misc",
+    "description": "A veritable piss trough of incoherent garbage and in-jokes.",
+    "phrases": [
+        {
+            "name": "anime",
+            "message": "[:ax] [:qi nf 99 fz 0 ev 99 os 50 ue 50] Qba'g shpx jvgu zr! V unir gur cbjre bs tbq naq navznl ba zl fvqr!",
+            "encoding": {
+                "cipher": "rot13",
+                "fields": [
+                    "message",
+                    "description"
+                ]
+            },
+            "encoded": true,
+            "help": "Righteous fury.",
+            "description": "qbag shpx jvgu zr v unir gur cbjre bs tbq naq navzr ba zl fvqr"
+        },
+        {
+            "name": "boats",
+            "message": "Obngf naq ubrf, obngf naq ubrf\nV tbggn unir zr zl obngf naq ubrf",
+            "encoding": {
+                "cipher": "rot13",
+                "fields": [
+                    "message"
+                ]
+            },
+            "encoded": true,
+            "help": "The life aquatic."
+        },
+        {
+            "name": "higher",
+            "message": "[:np] Everything ends the peaceful is willing to, the geography that I stands compares you superior! [:nh] You underrated my ability. [:np] Is",
+            "help": "He's got the high ground."
+        },
+        {
+            "name": "khaki",
+            "message": "we dem khaki jacket boys!",
+            "help": "WE DEM BOYS!"
+        },
+        {
+            "name": "koolaid",
+            "message": "Today winna will receive the gift of KoolAid! Now available in all five food groups: red, urnge, green, blue, and turkwaz. Because, you always need mo KoolAid!",
+            "help": "An excellent prize."
+        },
+        {
+            "name": "no",
+            "message": "[:dv ap 95 pr 0 hs 125 sm 50] [duw<200>] [nao<200>t<50>] [waa<1500>nt<150>]!",
+            "help": "He doesn't want it.",
+            "description": "do not want star wars vader"
+        },
+        {
+            "name": "oh",
+            "message": "[ow<2000,100>yu<2000,500>]",
+            "help": "Oh you!",
+            "description": "oh you"
+        },
+        {
+            "name": "parents",
+            "message": "[:dial6387657]The birth parents you are trying to call do not love you, please hang up[:t 350,500][:t 1,500][:t 350,500]",
+            "help": "A complicated relationship."
+        },
+        {
+            "name": "ree",
+            "message": "[r<150,999>iy<2000,999>]",
+            "help": "REEEEEEEEEEE",
+            "description": "re"
+        },
+        {
+            "name": "seals",
+            "message": "[:engr 500] Jung gur shpx qvq lbh whfg shpxvat fnl nobhg zr, lbh yvggyr ovgpu? V’yy unir lbh xabj V tenqhngrq gbc bs zl pynff va gur Anil Frnyf, naq V’ir orra vaibyirq va ahzrebhf frperg envqf ba Ny-Dhnrqn, naq V unir bire 300 pbasvezrq xvyyf. V nz genvarq va tbevyyn jnesner naq V’z gur gbc favcre va gur ragver HF nezrq sbeprf. Lbh ner abguvat gb zr ohg whfg nabgure gnetrg. V jvyy jvcr lbh gur shpx bhg jvgu cerpvfvba gur yvxrf bs juvpu unf arire orra frra orsber ba guvf Rnegu, znex zl shpxvat jbeqf. Lbh guvax lbh pna trg njnl jvgu fnlvat gung fuvg gb zr bire gur Vagrearg? Guvax ntnva, shpxre. Nf jr fcrnx V nz pbagnpgvat zl frperg argjbex bs fcvrf npebff gur HFN naq lbhe VC vf orvat genprq evtug abj fb lbh orggre cercner sbe gur fgbez, znttbg. Gur fgbez gung jvcrf bhg gur cngurgvp yvggyr guvat lbh pnyy lbhe yvsr. Lbh’er shpxvat qrnq, xvq. V pna or naljurer, nalgvzr, naq V pna xvyy lbh va bire frira uhaqerq jnlf, naq gung’f whfg jvgu zl oner unaqf. Abg bayl nz V rkgrafviryl genvarq va hanezrq pbzong, ohg V unir npprff gb gur ragver nefrany bs gur Havgrq Fgngrf Znevar Pbecf naq V jvyy hfr vg gb vgf shyy rkgrag gb jvcr lbhe zvfrenoyr nff bss gur snpr bs gur pbagvarag, lbh yvggyr fuvg. Vs bayl lbh pbhyq unir xabja jung haubyl ergevohgvba lbhe yvggyr pyrire pbzzrag jnf nobhg gb oevat qbja hcba lbh, znlor lbh jbhyq unir uryq lbhe shpxvat gbathr. Ohg lbh pbhyqa’g, lbh qvqa’g, naq abj lbh’er cnlvat gur cevpr, lbh tbqqnza vqvbg. V jvyy fuvg shel nyy bire lbh naq lbh jvyy qebja va vg. Lbh’er shpxvat qrnq, xvqqb.",
+            "encoding": {
+                "cipher": "rot13",
+                "fields": [
+                    "message",
+                    "description"
+                ]
+            },
+            "encoded": true,
+            "help": "Gorilla warfare.",
+            "description": "anil frny pbclcnfgn jung gur shpx qvq lbh whfg shpxvat fnl nobhg zr lbh yvggyr ovgpu"
+        },
+        {
+            "name": "secrets",
+            "message": "I've hacked into the most secret government and corporate secrets!",
+            "help": "execute hack.exe"
+        },
+        {
+            "name": "shrimp",
+            "message": "you want some [suh<1,1>]hrimp, none of which i've [luh<999,999>]icked",
+            "help": "Made especially for you.",
+            "description": "you want some shrimp none of which ive licked"
+        },
+        {
+            "name": "titanic",
+            "message": "\\bpm=100 f f f f | e 2f f | e 2f g | 2a 2g | f f f f | e 2f f | 2d 2r",
+            "help": "A heartfelt rendition.",
+            "description": "titanic theme song"
+        }
+    ]
 }
