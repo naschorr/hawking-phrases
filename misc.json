@@ -1,7 +1,7 @@
 {
     "name": "Miscellaneous",
     "key": "misc",
-    "description": "A veritable piss trough of incoherent garbage and in-jokes.",
+    "description": "A dumpster fire of humor",
     "phrases": [
         {
             "name": "anime",
@@ -93,10 +93,21 @@
             "description": "you want some shrimp none of which ive licked"
         },
         {
-            "name": "titanic",
-            "message": "\\bpm=100 f f f f | e 2f f | e 2f g | 2a 2g | f f f f | e 2f f | 2d 2r",
-            "help": "A heartfelt rendition.",
-            "description": "titanic theme song"
+            "name": "mad",
+            "message": "[:nr] [:dv hs 85] Its only game, why you hef to be mad?",
+            "help": "Is only game.",
+            "description": "its only game why you have to be mad"
+        },
+        {
+            "name": "roflcopter",
+            "message": "My rawfulcopter, it goes schwah schwah schwah",
+            "help": "Now how will you get the easter egg?",
+            "description": "my roflcopter it goes soi soi soi"
+        },
+        {
+            "name": "wake",
+            "message": "[:np] Wake me up. [:nw] Wake me up inside. [:np] Can't wake up! [:nw] Wake me up inside. [:np] [sey<800>v<200>_<150>miy<1000>eh<10>]!",
+            "help": "I just can't."
         }
     ]
 }
